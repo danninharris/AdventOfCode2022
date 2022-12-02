@@ -41,3 +41,5 @@ top3<-subset(df2[1:3,])
 
 #sum the total calories column 
 sum(top3$total_calories)
+
+#Answer = 210957
